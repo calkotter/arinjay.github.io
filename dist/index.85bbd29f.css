@@ -1,0 +1,57 @@
+@font-face {
+  font-family: ClashDisplay-Variable;
+  src: url("ClashDisplay-Variable.13bc7026.woff2") format("woff2"), url("ClashDisplay-Variable.bec636d2.woff") format("woff"), url("ClashDisplay-Variable.3932cf97.ttf") format("truetype");
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: ClashDisplay-Extralight;
+  src: url("ClashDisplay-Extralight.252a85f0.woff2") format("woff2"), url("ClashDisplay-Extralight.c3a179dd.woff") format("woff"), url("ClashDisplay-Extralight.d7fe9b82.ttf") format("truetype");
+  font-weight: 200;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: ClashDisplay-Light;
+  src: url("ClashDisplay-Light.eb5b0ba4.woff2") format("woff2"), url("ClashDisplay-Light.29b68d3a.woff") format("woff"), url("ClashDisplay-Light.1e112860.ttf") format("truetype");
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: ClashDisplay-Regular;
+  src: url("ClashDisplay-Regular.7776313f.woff2") format("woff2"), url("ClashDisplay-Regular.c003cab2.woff") format("woff"), url("ClashDisplay-Regular.07734b57.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: ClashDisplay-Medium;
+  src: url("ClashDisplay-Medium.fb7c66ad.woff2") format("woff2"), url("ClashDisplay-Medium.a1a97063.woff") format("woff"), url("ClashDisplay-Medium.9d5f9908.ttf") format("truetype");
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: ClashDisplay-Semibold;
+  src: url("ClashDisplay-Semibold.e79c9d22.woff2") format("woff2"), url("ClashDisplay-Semibold.a7f235d1.woff") format("woff"), url("ClashDisplay-Semibold.f33cd1f7.ttf") format("truetype");
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: ClashDisplay-Bold;
+  src: url("ClashDisplay-Bold.d3108d8d.woff2") format("woff2"), url("ClashDisplay-Bold.65e0b3ce.woff") format("woff"), url("ClashDisplay-Bold.d03adc8d.ttf") format("truetype");
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=index.85bbd29f.css.map */
