@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://hireme.arinjaychoudhury.com"
+  to = "https://google.com"
+  status = 301
+  force = true
