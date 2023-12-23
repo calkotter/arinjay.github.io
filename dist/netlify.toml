@@ -3,3 +3,13 @@
   to = "https://calendly.com/arinjayc"
   status = 301
   force = true
+
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex"
+    og:title = "Meet Arinjay"
+    og:image = "//meet.arinjaychoudhury.com/avatar.6d85bfd3.png"
+    og:description = "Schedule a meet with Arinjay"
+    og:url = "//https://meet.arinjaychoudhury.com"
