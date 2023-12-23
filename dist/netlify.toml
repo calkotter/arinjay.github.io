@@ -10,6 +10,6 @@
   [headers.values]
     X-Robots-Tag = "noindex"
     og:title = "Meet Arinjay"
-    og:image = "//arinjaychoudhury.com/avatar.6d85bfd3.png"
+    og:image = "https://arinjaychoudhury.com/avatar.6d85bfd3.png"
     og:description = "Schedule a meet with Arinjay"
     og:url = "//meet.arinjaychoudhury.com"
